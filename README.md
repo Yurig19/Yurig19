@@ -3,6 +3,8 @@
 
 -🌱 Atualmente estou aprendendo e estudando desenvolvimento web com React js e ASP.NET com C#.
 
+![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurig19&show_icons=true&theme=dark)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
