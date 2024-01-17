@@ -1,7 +1,7 @@
 # Olá, sou Yuri Gonçalves👋
 ## Seja bem vindo ao meu github
 
--🌱 Atualmente estou aprendendo e estudando desenvolvimento web com React js e ASP.NET com C#.
+-🌱 Atualmente estou aprendendo e estudando desenvolvimento web com React js, node Js e ASP.NET com C#.
 
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=Yurig19&show_icons=true&theme=dark)
 
