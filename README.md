@@ -14,7 +14,7 @@
 *Construindo aplicações completas — do back-end robusto ao front-end refinado*
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yurigoncalves.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gon%C3%A7alves-404a75249/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gonçalves-404a75249/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuri.zc35@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516997701045)
 
@@ -29,7 +29,7 @@ Sou desenvolvedor Full Stack com foco em back-end, especializado em construir AP
 - 🏢 Atualmente atuando como **Freelancer na Crosoften** (2025–presente)
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** — Universidade Paulista (2022–2024)
 - 📍 Serrana, SP — Brasil
-- 🤝 Aberto a oportunidades **remotas (PJ)**
+- 🤝 Aberto a oportunidades **remotas (CLT ou PJ)** e **presencial/híbrido em Ribeirão Preto - SP**
 
 ---
 
